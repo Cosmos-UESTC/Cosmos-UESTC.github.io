@@ -54,7 +54,7 @@ body {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: ;
+  background: url("https://cosmos-1301148362.cos.ap-chengdu.myqcloud.com/Images/BlueChip_ZH-CN7376022522_1920x1080.jpg");
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -1820,7 +1820,7 @@ blockquote footer cite:before {
 }
 @media screen and (min-width: 900px) {
   #aside_content .card-widget {
-    margin-left: 15px;
+    margin-right: 15px;
   }
 }
 .category-content ol,
@@ -3159,6 +3159,23 @@ header {
   }
   #recent-posts .recent-post-item:first-child {
     margin: 0;
+  }
+}
+@media screen and (min-width: 900px) {
+  #recent-posts,
+  #page,
+  .category-content,
+  #archive,
+  .tag-cloud,
+  .flink,
+  #tag,
+  #category {
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -o-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
+    order: 2;
   }
 }
 @media screen and (max-width: 900px) {
