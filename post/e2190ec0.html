@@ -134,8 +134,9 @@ function activateLightMode(){
 <p><a href="https://cosmos-1301148362.cos.ap-chengdu.myqcloud.com/Images/%E6%9F%8F%E6%9E%97%E5%99%AA%E5%A3%B0step1-2.jpg" target="_blank" rel="noopener" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cosmos-1301148362.cos.ap-chengdu.myqcloud.com/Images/%E6%9F%8F%E6%9E%97%E5%99%AA%E5%A3%B0step1-2.jpg" class="lazyload"></a></p>
 <p>一个问题是晶格顶点处的伪随机梯度向量是如何得到的，当然我们可以通过random这样的函数来计算单位正方形（二维）内的x和y分量值，但我们更愿意要那些在单位圆内的梯度向量。Perlin在他的实现中选择使用蒙特卡洛模拟方法来选取这些随机梯度向量。具体方法是（我把描述适应到了二维）：首先按之前的方法生成在单位正方形内随机梯度向量，然后剔除那些不在单位圆内的向量，直到找到了需要数目的随机梯度向量。Perlin把这些预计算得到的向量存储在一个查找表G[n]中，n是纹理大小，例如256 x 256大小的纹理对应n为256。虽然我们实际上需要n x n个梯度向量，这样会造成有些顶点的梯度是重复的。Perlin认为，重复是可以允许的，只要它们的间距够大就不会被察觉。因此，Perlin还预计算了一个随机排列数组P[n]，P[n]里面存储的是打乱后的0~n-1的排列值。这样一来，当我们想要得到(i, j)处晶格的梯度向量时，可以使用：</p>
 <blockquote>
-<p>G=G[(i+P[j])mod n]<br>得到了梯度后，我们就可以进行点乘，得到4个点乘结果，然后使用缓和曲线对它们进行插值即可。这里使用的权重就是输入点到4个顶点的横纵距离。</p>
+<p>G=G[(i+P[j])mod n]</p>
 </blockquote>
+<p>得到了梯度后，我们就可以进行点乘，得到4个点乘结果，然后使用缓和曲线对它们进行插值即可。这里使用的权重就是输入点到4个顶点的横纵距离。</p>
 <p>在原始的Perlin噪声实现中，Perlin对梯度向量的选择一般是取单位圆（三维就是单位球）内一些不同方向的向量。在他后面的改进算法7中，Perlin建议把三维的梯度向量初始化为到立方体12条边的向量值，来保证各个方向之间的不关联性。</p>
 <p>可以看出，Perlin噪声算法的时间复杂度为O(2^n)（n是维数），2^n其实就是每个晶格的顶点个数，对于每个输入点我们需要进行这么多次的点乘操作。因此，随着维数的增大，例如计算三维四维的Perlin噪声，时间会迅速增加。Perlin在2002年介绍了他优化后的一种噪声——Simplex噪声，这种噪声的复杂度是O(n^2)，在高纬度上时间优化明显，我们后面会讲到这种噪声。</p>
 <h3 id="一种柏林噪声的二维实现"><a href="#一种柏林噪声的二维实现" class="headerlink" title="一种柏林噪声的二维实现"></a>一种柏林噪声的二维实现</h3><p><a href="https://cosmos-1301148362.cos.ap-chengdu.myqcloud.com/Images/%E6%9F%8F%E6%9E%97%E5%99%AA%E5%A3%B0%E7%9A%84%E4%B8%80%E7%A7%8D%E4%BA%8C%E7%BB%B4%E5%AE%9E%E7%8E%B0.jpg" target="_blank" rel="noopener" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://cosmos-1301148362.cos.ap-chengdu.myqcloud.com/Images/%E6%9F%8F%E6%9E%97%E5%99%AA%E5%A3%B0%E7%9A%84%E4%B8%80%E7%A7%8D%E4%BA%8C%E7%BB%B4%E5%AE%9E%E7%8E%B0.jpg" class="lazyload"></a></p>
