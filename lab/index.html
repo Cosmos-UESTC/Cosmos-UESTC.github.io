@@ -124,9 +124,13 @@ function activateLightMode(){
 
     <script>
         function timer() {
-            var start = new Date(2020, 11, 11); // 20**·??·??，姑且先用今年的双11吧
+            // var start = new Date(2020, 11, 11); // 20**·??·??，姑且先用今年的双11吧
             //写给未来的我：
             //玩意那天就用上了呢
+
+            // 2022.07.07 和她在一起啦
+            var start = new Date(2022, 7, 7);
+            
             var t = new Date() - start;
             var h = ~~(t / 1000 / 60 / 60 % 24);
             if (h < 10) {
