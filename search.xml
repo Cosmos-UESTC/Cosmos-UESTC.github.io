@@ -4,64 +4,6 @@
   
     
     <entry>
-      <title>新作预告</title>
-      <link href="/post/f2e1bb6e.html"/>
-      <url>/post/f2e1bb6e.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>计划开发一款基于太空策略类的游戏，目前正在进行数值策划中~</p><p>Git test.</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">阵前再亮旧时剑  寒光凛凛似当年</span><br><span class="line"></span><br><span class="line">---</span><br></pre></td></tr></table></figure></div><h1 id="资源结构"><a href="#资源结构" class="headerlink" title="资源结构"></a>资源结构</h1><h2 id="0级资源"><a href="#0级资源" class="headerlink" title="0级资源"></a>0级资源</h2><h3 id="矿产资源"><a href="#矿产资源" class="headerlink" title="矿产资源"></a>矿产资源</h3><h4 id="普通矿物"><a href="#普通矿物" class="headerlink" title="普通矿物"></a>普通矿物</h4><p>星球视图</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">铁矿0</span><br><span class="line">铜矿99</span><br><span class="line">硅矿1</span><br><span class="line">煤矿1</span><br><span class="line">钛矿1</span><br><span class="line">石矿1</span><br><span class="line">水井0</span><br><span class="line">油井0</span><br><span class="line">树木5</span><br><span class="line">食物3</span><br><span class="line">氢8</span><br><span class="line">重氢9</span><br></pre></td></tr></table></figure></div><h4 id="珍奇矿物"><a href="#珍奇矿物" class="headerlink" title="珍奇矿物"></a>珍奇矿物</h4><p>星球视图</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">铀矿99</span><br><span class="line">可燃冰98</span><br><span class="line">有机晶体97</span><br><span class="line">刺笋结晶96</span><br><span class="line">分型硅石95</span><br><span class="line">金伯利矿石</span><br><span class="line">光栅石</span><br><span class="line">单极磁石</span><br><span class="line">硫酸海</span><br><span class="line">稀有文物</span><br></pre></td></tr></table></figure></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 新作预告 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 复习 </tag>
-            
-            <tag> 新作 </tag>
-            
-            <tag> 游戏 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>新作预告</title>
-      <link href="/post/f2e1bb6e.html"/>
-      <url>/post/f2e1bb6e.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>计划开发一款基于太空策略类的游戏，目前正在进行数值策划中~</p><p>Git test.<br>Git test Done!</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">春风若有怜花意 可否许我再少年</span><br><span class="line">No.</span><br></pre></td></tr></table></figure></div><p>tired.</p><p>Reborn.</p><p>…</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 新作预告 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 复习 </tag>
-            
-            <tag> 新作 </tag>
-            
-            <tag> 游戏 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>组织行为学期末复习</title>
       <link href="/post/8efd07bb.html"/>
       <url>/post/8efd07bb.html</url>
@@ -1015,6 +957,28 @@
       <url>/birthday/html/Memories.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><!DOCTYPE html><html lang="zh-CN"><head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"> <title>Happy Birthday</title> <link rel="stylesheet" href="../css/jquery.fullPage.css" type="text/css"> <link rel="stylesheet" href="../css/memories.css" type="text/css"> <link rel="stylesheet" href="../css/bubbles.css" type="text/css"><meta name="generator" content="Hexo 4.2.0"></head><body><div class="bgcolor">  <div style="z-index:100;" id="dowebok">      <!--第一屏-->      <div class="section">          <div class="ly-box01">            <div class="ly-txt01">              <p class="ly-stxt01">恭祝</p>              <p class="ly-stxt02">唐霄瑞同学</p>              <p class="ly-stxt03">生日快乐！！</p>              <p class="ly-stxt04">正好在做项目，也有了自己的网站</p>              <p class="ly-stxt05">就把这个作为您的生日礼物8！</p>            </div>            <div class="ly-txt02">              <p class="ly-stxt06">愿你一生温厚纯良不舍爱与自由</p>              <p class="ly-stxt07">愿你一生努力，一生被爱</p>              <p class="ly-stxt08">想要的都拥有，得不到的都释怀</p>              <p class="ly-stxt09">愿你有一个灿烂的前程</p>              <p class="ly-stxt10">愿你有情人终成眷属~</p>            </div>        </div>      </div>      <!--第二屏-->      <div class="section">          <div class="timeline"></div>          <div class="timepoint11"></div>          <div class="ly-box11">              <div class="ly-txt11">                  2019              </div>              <div class="ly-txt12">                  我们啥时候认识的来着？                  感觉我们从一认识就很谈得来的样子                  哈哈哈哈大概是都有的沙雕属性吧                  总之很高兴能认识您!              </div>              <div class="ly-imgbox11">                <a href="https://cosmos-uestc.space/img/1.jpg" data-fancybox="group" data-caption="undefined" class="fancybox"><img class="ly-img11 lazyload" data-src="https://cosmos-uestc.space/img/1.jpg"></a>              </div>          </div>          <div class="ly-triangle11"></div>          <div class="ly-box12">              <div class="ly-txt13">                  2019              </div>              <div class="ly-txt14">                 <p>总而言之</p>     <p>您是一个可爱的人</p>     <p>行走的表情包，快乐的沙雕网友</p>     <p>但是偶尔的那股文艺范让您充满知性</p>                 <p>——“这个世界疯狂，没人性，腐败， </p>                 <p>但您却一直清醒，温柔，一尘不染。”</p>                 <p>                             </p>                 <p>岁岁年年，万喜万般宜 </p>                 <p>一个有趣的灵魂</p>                 <p>"时光的沙漏里，细沙流走的是光阴"</p>                 <p>"丹丹檀香里，袅袅燃尽的是光阴"</p>              </div>          </div>          <div class="ly-triangle12"></div>      </div>      <!--第三屏-->      <div class="section">          <div class="timeline"></div>          <div class="timepoint21"></div>          <div class="ly-box21">              <div class="ly-txt21">                  2020              </div>              <div class="ly-txt22">                 <p> 似乎没有找到和您的合照，那就放一些您的照片吧</p>                         <p>如图所示哈哈哈哈哈哈哈哈哈哈</p>                         <p>可可爱爱</p>                         <p>没有脑袋</p>              </div>              <div class="ly-imgbox21">                <a href="D:/BLOG/source/birthday/img/2.jpg" data-fancybox="group" data-caption="undefined" class="fancybox"><img class="ly-img21 lazyload" data-src="D:/BLOG/source/birthday/img/2.jpg"></a>              </div>          </div>          <div class="ly-triangle21"></div>          <div class="ly-box22">              <div class="ly-txt23">                  2020              </div>              <div class="ly-txt24">                  2020，又是新的一年              </div>              <div class="ly-imgbox22">                <a href="https://cosmos-uestc.space/img/3.jpg" data-fancybox="group" data-caption="undefined" class="fancybox"><img class="ly-img22 lazyload" data-src="https://cosmos-uestc.space/img/3.jpg"></a>              </div>          </div>          <div class="ly-triangle22"></div>           <div class="ly-box23">              <div class="ly-txt25">                  2020，还请多多关照              </div>              <div class="ly-txt26">                  但逢良辰，顺颂时祺              </div>              <div class="ly-imgbox23">                <a href="https://cosmos-uestc.space/img/4.jpg" data-fancybox="group" data-caption="undefined" class="fancybox"><img class="ly-img23 lazyload" data-src="https://cosmos-uestc.space/img/4.jpg"></a>              </div>          </div>          <div class="ly-triangle23"></div>      </div>  <!--试验-->  <ul class="bg-bubbles">      <li></li>      <li></li>      <li></li>      <li></li>      <li></li>      <li></li>      <li></li>      <li></li>      <li></li>      <li></li>    </ul>  </div>  <script src="../js/jquery-2.1.1.min.js"></script>  <script src="../js/jquery.fullPage.min.js"></script>  <!-- <script src="../js/auto-play.js"></script> -->  <script src="../js/memories.js"></script>  <audio src="../music/1.mp3" autoplay="autoplay" loop="loop"></audio><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/assets/hijiki.model.json"},"display":{"position":"right","width":150,"height":250},"mobile":{"show":true},"react":{"opacity":1},"log":false});</script></div></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新作预告</title>
+      <link href="/%E6%96%B0%E4%BD%9C%E9%A2%84%E5%91%8A~%20-%20%E5%89%AF%E6%9C%AC.html"/>
+      <url>/%E6%96%B0%E4%BD%9C%E9%A2%84%E5%91%8A~%20-%20%E5%89%AF%E6%9C%AC.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>计划开发一款基于太空策略类的游戏，目前正在进行数值策划中~</p><p>Git test.<br>Git test Done!</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">春风若有怜花意 可否许我再少年</span><br><span class="line">No.</span><br></pre></td></tr></table></figure></div><p>tired.</p><p>Reborn.</p><p>…</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新作预告</title>
+      <link href="/%E6%96%B0%E4%BD%9C%E9%A2%84%E5%91%8A~.html"/>
+      <url>/%E6%96%B0%E4%BD%9C%E9%A2%84%E5%91%8A~.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>计划开发一款基于太空策略类的游戏，目前正在进行数值策划中~</p><p>Git test.</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">阵前再亮旧时剑  寒光凛凛似当年</span><br><span class="line"></span><br><span class="line">---</span><br></pre></td></tr></table></figure></div><h1 id="资源结构"><a href="#资源结构" class="headerlink" title="资源结构"></a>资源结构</h1><h2 id="0级资源"><a href="#0级资源" class="headerlink" title="0级资源"></a>0级资源</h2><h3 id="矿产资源"><a href="#矿产资源" class="headerlink" title="矿产资源"></a>矿产资源</h3><h4 id="普通矿物"><a href="#普通矿物" class="headerlink" title="普通矿物"></a>普通矿物</h4><p>星球视图</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">铁矿0</span><br><span class="line">铜矿99</span><br><span class="line">硅矿1</span><br><span class="line">煤矿1</span><br><span class="line">钛矿1</span><br><span class="line">石矿1</span><br><span class="line">水井0</span><br><span class="line">油井0</span><br><span class="line">树木5</span><br><span class="line">食物3</span><br><span class="line">氢8</span><br><span class="line">重氢9</span><br></pre></td></tr></table></figure></div><h4 id="珍奇矿物"><a href="#珍奇矿物" class="headerlink" title="珍奇矿物"></a>珍奇矿物</h4><p>星球视图</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">铀矿99</span><br><span class="line">可燃冰98</span><br><span class="line">有机晶体97</span><br><span class="line">刺笋结晶96</span><br><span class="line">分型硅石95</span><br><span class="line">金伯利矿石</span><br><span class="line">光栅石</span><br><span class="line">单极磁石</span><br><span class="line">硫酸海</span><br><span class="line">稀有文物</span><br></pre></td></tr></table></figure></div>]]></content>
       
     </entry>
     
